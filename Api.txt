@@ -1,0 +1,9 @@
+const options = {
+	method 'GET',
+	headers {
+		'X-RapidAPI-Key' '974a4662fbmshae101faac210569p154b86jsnb81dc7c120e9',
+		'X-RapidAPI-Host' 'imdb8.p.rapidapi.com'
+	}
+};
+
+fetch('httpsimdb8.p.rapidapi.comauto-completeq=spider%20man%202', options)

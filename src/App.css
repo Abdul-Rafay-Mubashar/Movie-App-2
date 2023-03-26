@@ -1,0 +1,398 @@
+.NavBar_Outline{
+  width: 100%;
+  height: 15vh;
+  background-color: #363535;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+}
+.NavBar_Part1{
+  width: 35%;
+  height: 30%;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.Camera_Pic_Frame{
+  width: 25px;
+  height: 25px;
+  margin-left: 10px;
+}
+.Pic_Frame{
+  width: 100%;
+  height: 100%;
+}
+.text{
+  width: 100px;
+  height: 100%;
+  margin-left: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.adze{
+  width: 45%;
+  height: 50%;
+  font-size: 15px;
+  font-weight: 700;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.design{
+  width: 55%;
+  height: 50%;
+  font-size: 13px;
+  font-weight: 700;
+  color: orangered;
+  display: flex;
+  justify-content: center;
+}
+.NavBar_Circle{
+  width: 45%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+.Div_Circle{
+  width: 30px;
+  height: 100%;
+}
+.Arrow{
+  width: 30px;
+  height: 100%;
+}
+.ring{
+  width: 100%;
+  height: 100%;
+}
+.NavBar_Part2{
+  width: 65%;
+  height: 30%;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.Search_Input{
+  width: 70%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.Search_Movie{
+  width: 100%;
+  height: 100%;
+  background-color: #363535;
+  border: none;
+  color: white;
+}
+.search_icon{
+  width: 25px;
+  height: 100%;
+  fill: #363535;
+  margin-left: -12px;
+}
+.NavBar_Last{
+  width: 30%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.icon{
+  width: 15%;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pic{
+  width: 70%;
+  height: 70%;
+  fill: #363535;
+  border-radius: 25px;
+}
+.pic1{
+  width: 90%;
+  height: 90%;
+  fill: #363535;
+  border-radius: 35px;
+
+}
+.sidebar_outline{
+  width: 20%;
+  height: 99.5vh;
+  background-color: #363535;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.sidebar_part1{
+  width: 80%;
+  height: 45%;
+  margin-top: 10px;
+}
+.part1_com1{
+  width: 100%;
+  height: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.com_inside{
+  width: 90%;
+  height: 80%;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: row;
+}
+.com_inside1{
+  width: 90%;
+  height: 80%;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: row;
+  background-color: #3282E3;
+}
+.img_com{
+  width: 15%;
+  height: 70%;
+  background-color: #363535;
+  border-radius: 25px;
+}
+.img{
+  width: 100%;
+  height: 100%;
+  border-radius: 25px 0px 0px 25px;
+}
+.Textpart{
+  margin-left: 5%;
+  width: 70%;
+  height: 100%;
+  font-size: 14px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  border-radius: 25px 0px 0px 25px;
+  color: white;
+}
+.sidebar_part2{
+  width: 80%;
+  height: 55%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.part2_inside{
+  width: 100%;
+  height: 90%;
+  margin-top: 5px;
+
+}
+.part2_com{
+  width: 100%;
+  height: 12%;
+  display: flex;
+  align-items: center;  
+  justify-content: center;
+  margin-top: 5px;
+}
+.Heading{
+  width: 100%;
+  height: 5%;
+  color: white;
+  margin-bottom: 10px;
+}
+.part2_com_inside{
+  width: 90%;
+  height: 60%;
+  display: flex;
+  flex-direction: row;
+}
+.pic_img{
+  width: 30px;
+  height: 25px;
+  border-radius: 25px;
+}
+.name{
+  width: 60%;
+  height: 100%;
+  margin-left: 5px;
+  color: white;
+}
+.pic_img1{
+  width: 100%;
+  height: 100%;
+  border-radius: 25px;
+}
+.last{
+  width: 22%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.down{
+  width: 10px;
+  height: 10px;
+}
+.Main_Movie{
+  width: 80vw;
+  height: 60vh;
+  z-index: 8;
+}
+.all{
+  display: flex;
+  flex-direction: row;
+}
+.Main_Movie_Info_Box{
+  width: 40vw;
+  height: 40vh;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: -330px;
+
+}
+.Main_Movie_Info_Box_inside{
+  width: 95%;
+  height: 80%;
+}
+.Movie_Name{
+  width:100%;
+  min-height: 70px;
+  height: auto;
+  font-size: 34px;
+  font-weight: 700;
+  color: white;
+}
+.Movie_Type{
+  width: 100%;
+  height: 10%;
+  color: white;
+  font-weight: 500;
+  font-size: 14px;
+}
+.Watch_Button{
+  width: 75px;
+  height: 30px;
+  background-color: #3282E3;
+  border: none;
+  border-radius: 15px;
+  margin-top: 20px;
+  color: white;
+  font-weight: 700;
+}
+.Menubar_Outline{
+  width: 80vw;
+  height: 52vh;
+  background-color: #242424;
+  margin-top: 63px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ALL1{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.First_Heading{
+  width: 100%;
+  height: 40%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.Heading_part1{
+  width: 51%;
+  height: 100%;
+  font-size: 34px;
+  font-weight: 700;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+.Heading_part2{
+  width: 45%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.Select{
+  width: 200px;
+  height: 40px;
+  background-color: #363535;
+  font-size: 20px;
+  border-radius: 25px;
+}
+.Menu_Option_Table{
+  width: 96%;
+  height: 60%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.box{
+  width: 20%;
+  height: 120%;
+  margin: auto;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -35px;
+}
+.box_inside{
+  width: 95%;
+  height: 95%;
+  border-radius: 25px;
+  max-height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: solid black 5px;
+
+}
+.movie_img{
+  height: 60%;
+  width: 100%;
+  border-radius: 25px 25px 0px 0px;
+}
+.movie_data{
+  width: 90%;
+  height: 40%;
+  border-radius: 0px 0px 25px 25px;
+}
+.movie_data_name{
+  width: 100%;
+  height: 60%;
+  color: white;
+  font-size: 18px;
+  padding: 0px 2px;
+  font-weight: 500;
+  margin-top: 5px;
+}
+.movie_data_type{
+  width: 100%;
+  height: 40%;
+  border-radius: 0px 0px 25px 25px ;
+  font-size: 14px;
+  color: white;
+  padding: 0px 2px;
+}
+.check_movie{
+  width: 100%;
+  height: 100%;
+  border-radius: 25px 25px 0px 0px;
+}
+.main_moive_pic{
+  width: 100%;
+  height: 100%;
+  border-radius: 2px;
+}
